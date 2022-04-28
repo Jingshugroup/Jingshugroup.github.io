@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,13 @@ analytics:
 author:
   name             : "Dr. Jing Shu"
   avatar           : "jingshu.jpg"
-  bio              : "Professor"
-  location         : "Location"
+  bio              : |
+    Professor,</br>
+    Institute of Theoretical Physics <br>
+    Chinese Academy of Science
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            : "jshu@itp.ac.cn"
   researchgate     :  "https://inspirehep.net/authors/1019902"
   uri              :
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Jing Shu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :  #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
