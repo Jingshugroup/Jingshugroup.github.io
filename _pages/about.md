@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jing Shu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Professor Jing Shu received his bachelor's degree in physics from Peking University in 2003 and his Ph.D. degree in 2008 from the University of Chicago under Professor Carlos Wagner. He was a project researcher from 2008-2011 in Kavli Institute for the Physics and Mathematics of the Universe (IPMU) and a European Research Council fellow in Scuola Internazionale Superiore di Studi Avanzati (SISSA) from 2011-2012. In 2012, he joined the Institute of Theoretical Physics(ITP), the Chinese Academy of Sciences(CAS) as an associate professor, and became a full professor in 2015. Now he is also the vice director of Peng Huanwu Innovation Research Center for Theoretical Physics. He received the OCPA “Achievements in Asia Award” (2019) and the National Science Fund for Distinguished Young Scholars (2020).
 
 A data-driven personal website
 ======
